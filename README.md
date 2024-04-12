@@ -1,4 +1,12 @@
-### Hi there 👋
+Hey everyone! My name is Bert! 📚
+
+🛠️ Im a student developer and a part-time MagicQ Technician🛠️
+📖 Currently learning PHP, Bash & Java 📖
+💻 Linux user/dev 💻
+👨‍💻 Currently using Java, PHP, Html & Css, MySql & Bash 👨‍💻
+
+My portfolio: https://bertnk.github.io
+
 
 <!--
 **BertNK/BertNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
