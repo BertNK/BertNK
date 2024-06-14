@@ -1,9 +1,9 @@
 Hey everyone! My name is Bert! 📚
 
 - 🛠️ Im a student developer and a part-time MagicQ Technician🛠️
-- 📖 Currently learning PHP, Bash & Java 📖
+- 📖 Currently learning JS, Python & Java 📖
 - 💻 Linux user/dev 💻
-- 👨‍💻 Currently using Java, PHP, Html & Css, MySql & Bash 👨‍💻
+- 👨‍💻 Currently using Java, PHP, Html & Css, JS, MySql, Python and Bash 👨‍💻
 
 My portfolio: https://bertnk.github.io
 
