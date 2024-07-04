@@ -1,7 +1,7 @@
 Hey everyone! My name is Bert! 📚
 
 - 🛠️ Im a student developer and a part-time MagicQ Technician🛠️
-- 📖 Currently learning JS, Python & Java 📖
+- 📖 Currently learning NodeJS & React📖
 - 💻 Linux user/dev 💻
 - 👨‍💻 Currently using Java, PHP, Html & Css, JS, MySql, Python and Bash 👨‍💻
 
