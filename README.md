@@ -1,9 +1,10 @@
-Hey everyone! My name is Bert! 📚
+Hi everyone! My name is Bert! 📚
 
 - 🛠️ Im a student developer and a part-time MagicQ Technician🛠️
-- 📖 Currently learning NodeJS & React📖
-- 💻 Linux user/dev 💻
-- 👨‍💻 Currently using Java, PHP, Html & Css, JS, MySql, Python and Bash 👨‍💻
+- 📖 Currently learning Python & Vue Framework📖
+- 👨‍💻 Currently using/learnt: Html|CSS, PHP, JS, Sql, Bash & Azure CloudDev 👨‍💻
+
+- 🔭 I’m currently working on a website for https://Synaptica.nl 🔭
 
 My portfolio: https://bertnk.github.io
 
