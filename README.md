@@ -2,7 +2,8 @@ Hi everyone! My name is Bert! 📚
 
 - 🛠️ Im a student developer and a part-time MagicQ Technician🛠️
 - 📖 Currently learning Python & Vue Framework📖
-  
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue, )](https://skillicons.dev)
 
 - 🔭 I’m currently working on a website for https://Synaptica.nl 🔭
 
