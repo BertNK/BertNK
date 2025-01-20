@@ -5,8 +5,6 @@ Hi everyone! My name is Bert! 📚
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,vite,nuxt,java,python,linux,bash,git,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on a fullstack website for https://Synaptica.nl 🔭
-
 My portfolio: https://bertnk.github.io
 
 <!--
