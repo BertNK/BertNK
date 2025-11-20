@@ -1,6 +1,6 @@
 Hi everyone! My name is Bert! 📚
 
-- 🛠️ Im a student developer and a part-time MagicQ Technician🛠️
+- 🛠️ Im a student software developer and a part-time MagicQ Technician🛠️
 - 📖 Currently learning Flutter Framework📖
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,react,vite,nuxt,java,python,linux,bash,git,github,neovim)](https://skillicons.dev)
