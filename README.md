@@ -7,7 +7,7 @@ Hi everyone! My name is Bert! 📚
 
 - ⚡ Active Homebrew developer & modder ⚡
 
-  [![Active Homebrew developer (PS4, PSVita & PSP](https://skillicons.dev/icons?i=lua,c,c++)](https://skillicons.dev)
+  [![Active Homebrew developer (PS4, PSVita & PSP](https://skillicons.dev/icons?i=lua,c,cpp)](https://skillicons.dev)
 
 My portfolio: https://bertnk.github.io
 
