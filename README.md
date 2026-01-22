@@ -5,6 +5,8 @@ Hi everyone! My name is Bert! 📚
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,react,vite,nuxt,flutter,java,python,linux,bash,git)](https://skillicons.dev)
 
+- ⚡ Active Homebrew developer & modder ⚡
+
   [![Active Homebrew developer (PS4, PSVita & PSP](https://skillicons.dev/icons?i=lua,c,c++)](https://skillicons.dev)
 
 My portfolio: https://bertnk.github.io
