@@ -1,9 +1,11 @@
 Hi everyone! My name is Bert! 📚
 
 - 🛠️ Im a student software developer and a part-time MagicQ Technician🛠️
-- 📖 Currently learning Flutter Framework📖
+- 📖 Currently practicing Outsystems📖
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,react,vite,nuxt,java,python,linux,bash,git,github,neovim)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,react,vite,nuxt,flutter,java,python,linux,bash,git)](https://skillicons.dev)
+
+  [![Active Homebrew developer (PS4, PSVita & PSP](https://skillicons.dev/icons?i=lua,c,c++)](https://skillicons.dev)
 
 My portfolio: https://bertnk.github.io
 
