@@ -1,7 +1,7 @@
 Hi everyone! My name is Bert! 📚
 
 - 🛠️ Im a student software developer and a part-time MagicQ Technician🛠️
-- 📖 Currently practicing Outsystems📖
+- 📖 Currently working with Outsystems at Quantore B.V📖
 - 🎓 Frameworks/Langauges worked with frequently 🎓
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,react,vite,flutter,java,c,cpp,python,linux,bash,git)](https://skillicons.dev)
