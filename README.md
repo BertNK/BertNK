@@ -4,7 +4,7 @@ Hi everyone! My name is Bert! 📚
 - 📖 Currently working with Outsystems at Quantore B.V📖
 - 🎓 Frameworks/Langauges worked with frequently 🎓
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,react,vite,flutter,java,c,cpp,python,linux,bash,sql,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,react,vite,flutter,java,c,cpp,python,linux,bash,git)](https://skillicons.dev)
 
 - ⚡ Active Homebrew developer & modder ⚡
 
