@@ -1,32 +1,45 @@
+<!-- Header -->
+
+<div align="center">
+
+# Hi, I'm Bert Nikkelen 👋
+
+### ICT Software Development Student · Full-Stack Development
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-bertnikkelen.nl-4FE0D0?style=for-the-badge&logo=googlechrome&logoColor=0E1418)](https://bertnikkelen.nl)
+
+</div>
+
+---
+
+## About Me
+
 Hi everyone! My name is Bert! 📚
 
-- 🛠️ Im a student software developer and a part-time MagicQ Technician🛠️
-- 📖 Currently working with Outsystems at Quantore B.V📖
-- 🎓 Frameworks/Langauges worked with frequently 🎓
+- 🛠️ I'm a student software developer and a part-time MagicQ Technician.
+- ⚡ Active Homebrew developer & modder.
+- 💻 Interested in hardware and learning new technologies.
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,js,html,css,php,python,lua)](https://skillicons.dev)
+---
 
-- 🛠️ Tools 🛠️
+## Tech Stack
 
-  [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,sqlite)](https://skillicons.dev)  
+<div align="center">
 
-- ⚡ Active Homebrew developer & modder ⚡
+### 🎓 Languages & Frameworks
 
-  [![Active Homebrew developer (PS4, PSVita & PSP](https://skillicons.dev/icons?i=lua,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,java,js,html,css,nuxtjs,vue,php,python,lua,bash)](https://skillicons.dev)
 
-My portfolio: https://bertnk.github.io
+### 🛠️ Tools & Technologies
 
-<!--
-**BertNK/BertNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,mysql,sqlite,arduino,linux)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Homebrew Development
+
+Active Homebrew developer & modder.
+
+[![Homebrew Development](https://skillicons.dev/icons?i=lua,c,cpp)](https://skillicons.dev)
