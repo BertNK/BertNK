@@ -14,8 +14,6 @@
 
 ## About Me
 
-Hi everyone! My name is Bert! 📚
-
 - 🛠️ I'm a student software developer and a part-time MagicQ Technician.
 - ⚡ Active Homebrew developer & modder.
 - 💻 Interested in hardware and learning new technologies.
