@@ -33,15 +33,3 @@
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,mysql,sqlite,arduino,linux)](https://skillicons.dev)
 
 </div>
-
----
-
-## ⚡ Homebrew Development
-
-<div align="center">
-
-Active Homebrew developer & modder.
-
-[![Homebrew Development](https://skillicons.dev/icons?i=lua,c,cpp)](https://skillicons.dev)
-
-</div>
