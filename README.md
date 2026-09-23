@@ -30,6 +30,6 @@
 
 ### 🛠️ Tools & Technologies
 
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,mysql,sqlite,arduino,linux)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,mysql,sqlite,arduino,linux,cloudflare)](https://skillicons.dev)
 
 </div>
