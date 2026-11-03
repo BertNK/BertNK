@@ -23,7 +23,7 @@
 
 ## Most Used Languages
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=default&hide_border=true)](https://github.com/BertNK)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BertNK&layout=compact&langs_count=8&theme=default&hide_border=true)](https://github.com/BertNK)
 
 
 ## Tech Stack
