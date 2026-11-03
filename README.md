@@ -20,6 +20,12 @@
 
 ---
 
+
+## Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BertNK&layout=compact&langs_count=8&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/BertNK)
+
+
 ## Tech Stack
 
 <div align="center">
